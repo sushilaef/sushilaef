@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilaef
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in BackEnd Developer 
+- 🌱 I’m currently learning Java
 
 
 <!---
